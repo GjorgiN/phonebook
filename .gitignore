@@ -31,3 +31,5 @@ tmp/
 local.properties
 .loadpath
 .factorypath
+
+src/main/java/org/phonebook/restClients/RestClientError.java
